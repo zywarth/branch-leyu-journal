@@ -1,2 +1,14 @@
 # branch-leyu-journal
-HTML page archive and documentation
+
+HTML 资料页存档
+
+该目录保存页面发布文件，便于通过仓库历史查看变化。
+
+## 页面目录
+
+- 每个 HTML 文件代表一个页面
+- README 仅作为仓库说明
+
+## 页面说明
+
+每个 HTML 文件都是独立页面，具体内容请打开对应文件查看。
